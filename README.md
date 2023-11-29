@@ -9,3 +9,8 @@
 6. click on + and add your message in message box and click on commit
 7. Prompt will come to create "Branch' usin Git public or private repo.Only one time.Use Public link always
 8. Click on commit and your code is pushed.Refresh git and see!
+
+
+Project Structure/Pipeline Structure:
+
+![Alt text](image-2.png)
