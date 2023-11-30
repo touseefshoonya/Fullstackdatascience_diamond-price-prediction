@@ -11,6 +11,5 @@
 8. Click on commit and your code is pushed.Refresh git and see!
 
 
-Project Structure/Pipeline Structure:
 
-![Alt text](image-1.png)
+
