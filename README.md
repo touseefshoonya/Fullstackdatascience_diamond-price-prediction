@@ -10,6 +10,9 @@
 7. Prompt will come to create "Branch' usin Git public or private repo.Only one time.Use Public link always
 8. Click on commit and your code is pushed.Refresh git and see!
 
-
+Cut and clarity chart:
 ![Alt text](image-1.png)
 
+
+Everything abou diamond:
+https://www.vrai.com/journal/post/diamond-cut
