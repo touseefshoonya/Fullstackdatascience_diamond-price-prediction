@@ -11,8 +11,12 @@
 8. Click on commit and your code is pushed.Refresh git and see!
 
 Cut and clarity chart:
+
+
 ![Alt text](image-1.png)
 
 
-Everything abou diamond:
+Everything about diamond:
+
+
 https://www.vrai.com/journal/post/diamond-cut
