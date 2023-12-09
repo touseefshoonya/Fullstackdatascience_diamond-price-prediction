@@ -19,4 +19,4 @@ logging.basicConfig(level=logging.INFO,
 
 
 if __name__ == '__main__':
-    logging.info("here again i am tesitng")
+    logging.info("using if name=main will stop auto execution to above code")
